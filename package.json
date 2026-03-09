@@ -1,0 +1,29 @@
+{
+  "name": "calculate-benefits-ui-web-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "fsevents": "^2.3.2",
+    "playwright": "^1.58.2",
+    "playwright-core": "^1.58.2",
+    "undici-types": "^7.18.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.3"
+  },
+  "scripts": {
+    "install:all": "npm install && npx playwright install",
+    "test": "npx playwright test",
+    "test:ui": "npx playwright test --ui",
+    "codegen": "npx playwright codegen https://alfabank.ru",
+    "report": "npx playwright show-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
