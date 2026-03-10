@@ -50,3 +50,9 @@ calculate-benefits-ui-web-tests/
 1. В компонентах `tabs.component.ts` и `deposit.component.ts` определены `root` элементы для ускорения тестов, и упрощения написания локаторов, чтобы плейрайт искал только внутри этой части большой html страницы
 2. В соответствующих пакетах можно найти реализацию объекты страниц (Page Object),
 реализовано с помощью фикстур `fixtures/index.ts`, чтобы инициализировать объекты страниц не в тестовом классе
+
+<img width="1519" height="858" alt="image" src="https://github.com/user-attachments/assets/19e40bd6-82e3-4e39-b436-12b6710437e7" />
+
+<img width="1522" height="905" alt="image" src="https://github.com/user-attachments/assets/6dfe89cf-a0c4-48f0-953a-8f62d6ecd009" />
+
+
