@@ -56,3 +56,4 @@ calculate-benefits-ui-web-tests/
 <img width="1519" height="858" alt="image" src="https://github.com/user-attachments/assets/19e40bd6-82e3-4e39-b436-12b6710437e7" />
 
 
+Тест-кейсы тут: https://docs.google.com/document/d/1dUhXEdTTYl7uNhGR0oOw3Pf9oZuCsF94_yl4u2h_TeQ/edit?usp=sharing
